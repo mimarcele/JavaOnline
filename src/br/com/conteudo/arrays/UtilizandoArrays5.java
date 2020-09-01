@@ -1,4 +1,4 @@
-package br.com.everis.arrays;
+package br.com.conteudo.arrays;
 
 public class UtilizandoArrays5 {
     public static void main(String[] args) {

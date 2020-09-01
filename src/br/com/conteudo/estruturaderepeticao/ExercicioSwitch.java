@@ -1,4 +1,4 @@
-package br.com.everis.estruturaderepeticao;
+package br.com.conteudo.estruturaderepeticao;
 
 public class ExercicioSwitch {
     public static void main(String[] args) {
